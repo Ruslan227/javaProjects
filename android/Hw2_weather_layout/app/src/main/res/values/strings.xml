@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Hw2</string>
+    <string name="time_5">7 pm</string>
+    <string name="time_4">4 pm</string>
+    <string name="time_3">2 pm</string>
+    <string name="time_2">1 pm</string>
+    <string name="time_1">12 pm</string>
+    <string name="weather_1">Windy</string>
+    <string name="weather_2">Rainy</string>
+    <string name="weather_3">Rainbow</string>
+    <string name="weather_4">Sunny</string>
+    <string name="weather_5">Moon</string>
+    <string name="wind_value">78</string>
+    <string name="preception_value">52</string>
+    <string name="humidity_value">89</string>
+    <string name="today_param_1">Wind Flow</string>
+    <string name="today_param_2">Preception</string>
+    <string name="today_param_3">Humidity</string>
+    <string name="temperature">32 C</string>
+    <string name="location">London, UK\n Sunny</string>
+    <string name="main_header">Weather</string>
+    <string name="img_description_location">location</string>
+    <string name="img_description_apps">apps</string>
+    <string name="img_description_settings">settings</string>
+    <string name="img_description_home">home</string>
+    <string name="img_description_moon">moon</string>
+    <string name="img_description_sunny">sunny</string>
+    <string name="img_description_rainbow">rainbow</string>
+    <string name="img_description_rainy">rainy</string>
+    <string name="img_description_windy">windy</string>
+    <string name="img_description_wind_flow">windFlow</string>
+    <string name="img_description_preception">preception</string>
+    <string name="img_description_humidity">humidity</string>
+    <string name="img_description_main_image">mainImage</string>
+    <string name="theme_button">Theme</string>
+</resources>

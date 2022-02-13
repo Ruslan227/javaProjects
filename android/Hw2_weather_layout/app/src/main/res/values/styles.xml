@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="dark_theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="background_color">@color/dark</item>
+        <item name="text_color">@color/light</item>
+    </style>
+
+    <style name="light_theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="background_color">@color/light</item>
+        <item name="text_color">@color/dark</item>
+    </style>
+
+    <style name="all_objects">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+    </style>
+</resources>
