@@ -1,0 +1,15 @@
+./src/ru/ifmo/rain/dorofeev/bank/RemoteBank.java
+./src/ru/ifmo/rain/dorofeev/bank/Client.java
+./src/ru/ifmo/rain/dorofeev/bank/LocalAccount.java
+./src/ru/ifmo/rain/dorofeev/bank/Account.java
+./src/ru/ifmo/rain/dorofeev/bank/BankServer.java
+./src/ru/ifmo/rain/dorofeev/bank/Person.java
+./src/ru/ifmo/rain/dorofeev/bank/RemotePerson.java
+./src/ru/ifmo/rain/dorofeev/bank/LocalPerson.java
+./src/ru/ifmo/rain/dorofeev/bank/BankClient.java
+./src/ru/ifmo/rain/dorofeev/bank/Bank.java
+./src/ru/ifmo/rain/dorofeev/bank/Server.java
+./src/ru/ifmo/rain/dorofeev/bank/RemoteAccount.java
+./src/ru/ifmo/test/common/bank/package-info.java
+./src/info/kgeorgiy/java/advanced/base/CG.java
+./src/info/kgeorgiy/java/advanced/base/package-info.java
